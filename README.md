@@ -1,0 +1,2 @@
+# newsms
+Limited Functionality
